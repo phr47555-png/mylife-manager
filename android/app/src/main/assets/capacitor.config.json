@@ -1,0 +1,9 @@
+{
+	"appId": "com.mylifemanager.app",
+	"appName": "MyLife Manager",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	},
+	"plugins": {}
+}
